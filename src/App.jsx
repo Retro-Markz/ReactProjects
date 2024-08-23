@@ -1,8 +1,12 @@
 import "./App.css";
-import ESignatureApp from "./projects/01_E_Signature_App/ESignatureApp";
+import RandomizeColors from "./projects/02_Randomize_Colors/RandomizeColors";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <RandomizeColors />
+    </>
+  );
 }
 
 export default App;
