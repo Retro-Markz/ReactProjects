@@ -1,10 +1,10 @@
 import "./App.css";
-import RandomizeColors from "./projects/02_Randomize_Colors/RandomizeColors";
+import LikeMyPhoto from "./projects/03_Like_My_Photo/LikeMyPhoto";
 
 function App() {
   return (
     <>
-      <RandomizeColors />
+      <LikeMyPhoto />
     </>
   );
 }
